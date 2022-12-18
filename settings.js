@@ -26,8 +26,8 @@ global.language = indonesia  //change indonesia to english if you don't understa
 
 // Other
 // Other
-global.botname = "𝙁𝙖𝙖𝙩𝘽𝙤𝙩𝙯-𝙈𝙙ヅ" //namabot kalian
-global.ownername= "ヅ𝙁𝙖𝙖𝙩𝙎𝙠𝙞𝙯𝙤|𝙁𝙖𝙖𝙩𝙉𝙚𝙜𝙧𝙤ヅ" //nama kalian
+global.botname = "ヅ𝘽𝙤𝙩_𝙀𝙣𝙚𝙙𝙖𝙖𝙖|𝙋𝙖𝙖𝙩_𝘽𝙤𝙩𝙯ヅ" //namabot kalian
+global.ownername= "ヅ𝙀𝙣𝙚𝙙𝙖𝙖𝙖|𝙋𝙖𝙖𝙩ヅ" //nama kalian
 global.myweb ="http://faatbotz.epizy.com" //bebas asal jan hapus
 global.youtube = "https://youtube.com/ProfitinGT" //bebas asal jan hapus
 global.myweb2 = "https://linktr.ee/Faatbotz" //bebas
@@ -42,8 +42,8 @@ global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder i
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/cbd2b3528702c134fa27b.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.thumbGif = 'https://telegra.ph/file/e90bef3779d3c5812a5d1.mp4'
-global.packname = '© 𝙁𝙖𝙖𝙩𝘽𝙤𝙩𝙯-𝙈𝙙ヅ' //sticker wm ubah
-global.author = 'Di Buat Oleh ヅ𝙁𝙖𝙖𝙩𝙎𝙠𝙞𝙯𝙤|𝙁𝙖𝙖𝙩𝙉𝙚𝙜𝙧𝙤ヅ' //sticker wm ganti nama kalian
+global.packname = '© ヅ𝘽𝙤𝙩_𝙀𝙣𝙚𝙙𝙖𝙖𝙖|𝙁𝙖𝙖𝙩_𝘽𝙤𝙩𝙯ヅ' //sticker wm ubah
+global.author = 'Di Buat Oleh ヅ𝙀𝙣𝙚𝙙𝙖𝙖𝙖|𝙋𝙖𝙖𝙩ヅ' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
 global.multiplier = 69
